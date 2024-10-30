@@ -4,5 +4,5 @@ spring:
     hikari:
       maximum-pool-size: 5
       connection-timeout: 20000
-    url: jdbc:postgresql://localhost:5431/companies
+    url: jdbc:postgresql://localhost:5431/companies-prod
     password: 7dfkdjfgk89fsdjfn9adfkn9daklfn9
